@@ -1,6 +1,6 @@
 # EDA-on-NYC-Taxi-Records
 Jaya Priya's EDA on NYC Taxi Records
-"EDA_Optimising_NYC_Taxis_<your_name>.zip" has two file as listed below :
+"EDA_Optimising_NYC_Taxis_Jaya_Priya_Radhakrishnan.zip" has two file as listed below :
 
     1.An Interactive Python Notebook (.ipynb) that contains code ==>EDA_Assg_NYC_Taxi_Starter_Jaya_Priya_Radhakrishnan.ipynb
     
